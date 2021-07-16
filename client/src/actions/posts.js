@@ -1,5 +1,4 @@
 import { CREATE, UPDATE, DELETE, FETCH_ALL } from '../constants/actionTypes';
-
 import * as api from  '../api';
 
 
